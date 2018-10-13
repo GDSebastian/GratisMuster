@@ -1,2 +1,2 @@
 # GratisMuster
-Katzen sind süß
+Katzen sind auch nur Kamele
